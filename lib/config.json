@@ -4,7 +4,6 @@
   "botNumber": "6282122379874@s.whatsapp.net",
   "owner": ["6285798267620@s.whatsapp.net"],
   "instagram": "https://instagram.com/granger_ambys",
-  "instagram": "https://instagram.com/prm2.0?igshid=YmMyMTA2M2Y=",
   "author": "XIAO SAN",
   "session": "senku-md",
   "email": "faridahidah679@gmail.com",
@@ -12,7 +11,7 @@
   "limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
   "packInfo":{
     "packname": "AMBYS",
-    "author": "XIAO SAN & TIOXD"
+    "author": "XIAO SAN"
   },
   "ignore": {
 		"directory": ["umum"]
